@@ -1,5 +1,5 @@
 //
-// Created by barin on 5/4/2021.
+// Created by Carina dePillis-Shintaku on 5/4/2021.
 //
 #include <iostream>
 #include <vector>
@@ -314,4 +314,5 @@ void Player :: showBalance()
         cout << "Account balance: " << get_curr()/1000000 << "M" << endl;
     }
 }
+
 
