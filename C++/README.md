@@ -3,3 +3,5 @@ A Death at Wright Manor: a short and simple text-based game that has you, a dete
 Star Merchant: a text-based game where you play as, expectedly, a merchant in space. Your goal is to run your business successfully for ten years and make enough money to pay off your ship loan and pay your crew their wages.
 
 All of these projects were created in CLion, but should hopefully work elsewhere.
+
+Note that any mention of "barin" is me -- just using my computer username instead of my full name.
