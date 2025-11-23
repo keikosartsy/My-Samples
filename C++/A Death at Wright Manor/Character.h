@@ -1,5 +1,5 @@
 //
-// Created by barin on 3/3/2021.
+// Created by Carina dePillis-Shintaku on 3/3/2021.
 //
 
 #ifndef PROJ02_CHARACTER_H
@@ -52,3 +52,4 @@ public:
 
 };
 #endif //PROJ02_CHARACTER_H
+
