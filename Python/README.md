@@ -1,0 +1,1 @@
+Predicting Where Pictures Were Taken: a school project that uses PyTorch to classify whether an image was taken on one side of the Big Island or the other. The code is meant to run on a specific server, so it likely will not work if you attempt to download and run it on your own machine.
