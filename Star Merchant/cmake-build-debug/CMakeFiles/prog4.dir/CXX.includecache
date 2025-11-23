@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/barin/Downloads/CS 151/Assignments/prog4/Player.h
+iostream
+-
+vector
+-
+string
+-
+time.h
+-
+algorithm
+-
+cmath
+-
+
+C:/Users/barin/Downloads/CS 151/Assignments/prog4/main.cpp
+iostream
+-
+vector
+-
+string
+-
+time.h
+-
+algorithm
+-
+cmath
+-
+iomanip
+-
+Player.h
+C:/Users/barin/Downloads/CS 151/Assignments/prog4/Player.h
+
