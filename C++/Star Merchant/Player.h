@@ -1,5 +1,5 @@
 //
-// Created by barin on 5/4/2021.
+// Created by Carina dePillis-Shintaku on 5/4/2021.
 //
 
 #ifndef PROG4_PLAYER_H
@@ -69,3 +69,4 @@ private:
 
 };
 #endif //PROG4_PLAYER_H
+
