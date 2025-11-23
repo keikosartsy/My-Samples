@@ -1,0 +1,3 @@
+C:/Users/barin/Downloads/CS 151/Assignments/proj02/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/barin/Downloads/CS 151/Assignments/proj02/cmake-build-debug/CMakeFiles/proj02.dir
+C:/Users/barin/Downloads/CS 151/Assignments/proj02/cmake-build-debug/CMakeFiles/rebuild_cache.dir
