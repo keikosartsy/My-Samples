@@ -1,1 +1,3 @@
 Predicting Where Pictures Were Taken: a school project that uses PyTorch to classify whether an image was taken on one side of the Big Island or the other. The code is meant to run on a specific server, so it likely will not work if you attempt to download and run it on your own machine.
+
+My Python projects with HIPAAVault and the University of Hawaii at Hilo are considered proprietary work. I am happy to discuss the projects in general, but I do not have permission to share the source code with any external party. Please contact me at carinashintaku@gmail.com if you would like more information.
