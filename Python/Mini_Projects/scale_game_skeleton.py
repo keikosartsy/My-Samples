@@ -83,7 +83,7 @@ class Scale:
             raise ValueError(f"Invalid root note: {self.root}")
 
         currIdx = baseNotes.index(self.root)
-        currOctave = 4 # starting octave, always assumed to start at 4 because i hate you specifically
+        currOctave = 4 # starting octave, always assumed to start at 4
 
         # init scale with root note
         scale = [f"{baseNotes[currIdx]}{currOctave}"]
