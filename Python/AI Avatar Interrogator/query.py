@@ -16,7 +16,7 @@ def getQuery(file):
 
 # def sendQuery(query):
 #     # response is a response object of some kind, can isolate just the text
-#     genai.configure(api_key="AIzaSyCgs-MFr92Qx7Otpc-sBQxhJNIYA5L2lIY")
+#     genai.configure(api_key="") # add your API key here
 #     model = genai.GenerativeModel(model_name="gemini-1.5-flash",
 #                                   system_instruction="You are a 32-year-old nurse under suspicion of diverting drugs from your hospital and pocketing it for your own needs.  You did not steal anything, however, and are trying your best to prove your innocence.")
 #     response = model.generate_content(query)
